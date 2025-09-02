@@ -9,7 +9,7 @@
       "versionUrl": "https://raw.githubusercontent.com/AstroGames-yay/gamelaunchergames/refs/heads/main/games/releases/slendy/slendy2013/version",
       "description": "An awesome slendytubbies inspired game :D"
     }
-  },
+  }
   "metadata": {
     "lastUpdated": "2024-01-15T10:30:00Z",
     "version": "1.12",
@@ -17,4 +17,5 @@
   }
 
 }
+
 
