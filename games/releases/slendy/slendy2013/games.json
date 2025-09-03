@@ -2,7 +2,7 @@
   "games": {      
       "slendy2013": {
       "name": "Slendy - 2013",
-      "version": "2.0.1",
+      "version": "2.0",
       "downloadUrl": "https://github.com/AstroGames-yay/gamelaunchergames/releases/download/v2.0.1/Slendy2013-new.zip",
       "icon": "https://raw.githubusercontent.com/AstroGames-yay/gamelaunchergames/main/games/releases/slendy/slendy2013/icon.png",
       "executablePath": "Slendy 2013 v2 beta.exe",
@@ -26,6 +26,7 @@
   }
 
 }
+
 
 
 
