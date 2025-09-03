@@ -8,15 +8,25 @@
       "executablePath": "Slendy 2013 v2 beta.exe",
       "versionUrl": "https://raw.githubusercontent.com/AstroGames-yay/gamelaunchergames/refs/heads/main/games/releases/slendy/slendy2013/version",
       "description": "An awesome slendytubbies inspired game :D"
+    },
+    "slendy2014": {
+      "name": "Slendy 2 - 2014",
+      "version": "1.1",
+      "downloadUrl": "https://github.com/AstroGames-yay/gamelaunchergames/releases/download/v1.1.0/Slendy.2.-.2014.1.1.zip",
+      "icon": "https://raw.githubusercontent.com/AstroGames-yay/gamelaunchergames/refs/heads/main/games/releases/slendy/slendy-2-2014/icon.png",
+      "executablePath": "Slendy 2 - 2014.exe",
+      "versionUrl": "https://raw.githubusercontent.com/AstroGames-yay/gamelaunchergames/refs/heads/main/games/releases/slendy/slendy-2-2014/version",
+      "description": "An awesome slendytubbies inspired game :D"
     }
   },
   "metadata": {
-    "lastUpdated": "2024-01-15T10:30:00Z",
-    "version": "1.15",
+    "lastUpdated": "2015-09-02T10:30:00Z",
+    "version": "1.2",
     "author": "Astro Games"
   }
 
 }
+
 
 
 
